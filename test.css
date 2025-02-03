@@ -1,0 +1,55 @@
+body {
+  background-color: #c7c3c3bf;
+}
+h1 {
+  justify-self: center;
+}
+.header1,
+p {
+  color: white;
+}
+p {
+  line-height: 25px;
+}
+.container {
+  display: flex;
+  margin: 50px 220px;
+}
+.joinus {
+  background-color: rgb(23, 108, 235);
+  padding: 200px 185px;
+  justify-items: center;
+}
+
+.signup {
+  padding: 10px;
+  justify-items: center;
+  background-color: azure;
+}
+.name1,
+.name2,
+.email,
+.password,
+.password1,
+.radio1,
+.radio2 {
+  margin: 10px;
+  padding: 15px 70px;
+  background-color: #cfcfcfa8;
+  color: black;
+  justify-items: center;
+  border-radius: 5px;
+}
+.button1 {
+  background-color: rgb(31, 31, 145);
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+}
+.button2 {
+  background-color: rgb(23, 108, 235);
+  color: white;
+  border-radius: 5px;
+  margin: 30px 30px;
+  padding: 30px 170px;
+}
